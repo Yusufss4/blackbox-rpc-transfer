@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-    <img src="readme/logo.png" alt="Logo" height="140">
+    <img src="readme/logo.png" alt="Logo" height="220">
   <h1 align="center">Uploading Binary File with using RPC and rpcgen</h1>
   <p align="center">
     Uploading and running a binary blackbox file using Remote Procedure Call with the help of rpcgen. 
