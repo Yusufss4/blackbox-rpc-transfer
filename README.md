@@ -8,7 +8,7 @@
   <p align="center">
     Uploading and running a binary blackbox file using Remote Procedure Call with the help of rpcgen. 
     <br/>
-    <a href="https://youtu.be/0TlZ10MsEyc">Watch Video</a>
+    <a href="https://github.com/Yusufss4/blackbox-rpc-transfer">Github Page</a>
   </p>
    <p align="center">
     Index
