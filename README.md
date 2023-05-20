@@ -8,7 +8,7 @@
   <p align="center">
     Uploading and running a binary blackbox file using Remote Procedure Call with the help of rpcgen. 
     <br/>
-    <a href="https://github.com/Yusufss4/blackbox-rpc-transfer">Github Page</a>
+    <a href="https://youtu.be/pQMo_gQOs60">Watch a video</a>
   </p>
    <p align="center">
     Index
@@ -174,3 +174,13 @@ I have used many sources but the sources below are the best examples in their ar
 - [Writing Remote Procedural Calls (RPCs) in C](https://www.cprogramming.com/tutorial/rpc/remote_procedure_call_start.html)
 - [rpcgen Tutorial](https://docs.oracle.com/cd/E19683-01/816-1435/rpcgenpguide-21470/index.html)
 - Excalidraw for the diagram.
+
+[contributors-shield]: https://img.shields.io/github/contributors/Yusufss4/blackbox-rpc-transfer.svg?style=for-the-badge
+[contributors-url]: https://github.com/Yusufss4/blackbox-rpc-transfer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Yusufss4/blackbox-rpc-transfer.svg?style=for-the-badge
+[forks-url]: https://github.com/Yusufss4/blackbox-rpc-transfer/network/members
+[stars-shield]: https://img.shields.io/github/stars/Yusufss4/blackbox-rpc-transfer.svg?style=for-the-badge
+[stars-url]: https://github.com/Yusufss4/blackbox-rpc-transfer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Yusufss4/blackbox-rpc-transfer.svg?style=for-the-badge
+[issues-url]: https://github.com/Yusufss4/blackbox-rpc-transfer/issues
+[license-shield]: https://img.shields.io/github/license/Yusufss4/blackbox-rpc-transfer.svg?style=for-the-badge
